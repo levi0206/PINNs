@@ -1,1 +1,1 @@
-# Physics Informed Neural Networks (PINNs): A toy example
+## Physics Informed Neural Networks (PINNs): A toy example
