@@ -1,1 +1,1 @@
-# Simple implementation with PyTorch: Physics Informed Neural Networks (PINNs)
+# Physics Informed Neural Networks (PINNs): A toy example
